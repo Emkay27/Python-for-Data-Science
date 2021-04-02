@@ -33,3 +33,7 @@ https://gist.github.com/c7685bbb700afda0fae0701812ec09fd
 7) ## Loops in Python.
 
 https://gist.github.com/d217c2582243198085d323e2c2e7809e
+
+8) ## Functions in Python.
+
+https://gist.github.com/e6cdf765bf95b5c50c0dc1017a318196
