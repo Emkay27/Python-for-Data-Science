@@ -2,9 +2,9 @@
 
 ___This is a repository that tracks my progress in the IBM Cognative class course namely, Python for Data Science.___
 
-## At the end of the course I will recieve a badge that will show my accomplishment.
+___At the end of the course I will recieve a badge that will show my accomplishment.___
 
-## Below are the links to my GitHub Gist which shows what I am learning and my progress in the IBM Cognative class course.
+___Below are the links to my GitHub Gist which shows what I am learning and my progress in the IBM Cognative class course.___
 
     1) First Python Code on this course.
 
