@@ -16,4 +16,5 @@ Sets in Python.                    | https://gist.github.com/5ea1b19ae139068cdd6
 Dictionaries in Python.            | https://gist.github.com/c7685bbb700afda0fae0701812ec09fd
 Loops in Python.                   | https://gist.github.com/d217c2582243198085d323e2c2e7809e
 Functions in Python.               | https://gist.github.com/e6cdf765bf95b5c50c0dc1017a318196
+Exception Handling                 | https://gist.github.com/f1c3b22f09c4f7911c17df382293734a
 Classes and Objects in Python      | https://gist.github.com/c4960a698b41b8979d91c5164ce923d3
