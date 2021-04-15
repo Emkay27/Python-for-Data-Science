@@ -4,7 +4,7 @@ ___This is a repository that tracks my progress in the IBM Cognative class cours
 
 ___At the end of the course I will recieve a badge that will show my accomplishment.___
 
-___Below are the links to my GitHub Gist which shows what I am learning and my progress in the IBM Cognative class course.___
+___Below are the links to my GitHub Gist and IBM Watson Studio which shows what I am learning and my progress in the IBM Cognative class course.___
 
 Discription                        | Links
 ---------------------------------- | --------------------------------------------------------
