@@ -2,9 +2,7 @@
 
 ___This is a repository that tracks my progress in the IBM Cognative class course namely, Python for Data Science.___
 
-___At the end of the course I will recieve a badge that will show my accomplishment.___
-
-___Below are the links to my GitHub Gist and IBM Watson Studio which shows what I am learning and my progress in the IBM Cognative class course.___
+___Below are the links to my GitHub Gist and IBM Watson Studio which shows what I've learnt in the IBM Cognative class course.___
 
 Discription                        | Links
 ---------------------------------- | --------------------------------------------------------
@@ -22,3 +20,5 @@ Reading Files Python.              | https://gist.github.com/b404960bc2c0de3af2e
 Write and Save files in Python     | https://gist.github.com/908c8725346b76aec8c05e422fed5418
 Introduction to Pandas in Python   | https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/81177609-0e93-4d33-ad83-f805ecca2027/view?access_token=914c09b5e1857f90d6b33f426557526eb6447dc4aca1da8ffa29c7c507c985ca
 HTTP and Requests                  | https://gist.github.com/9de399f9bcfa8606ca64106ada93a656
+
+___I have passed the IBM cognitive class with a mark of 98% to receive my certificate and badge.___
