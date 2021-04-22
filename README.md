@@ -1,6 +1,6 @@
 # Python-for-Data-Science
 
-___This is a repository that tracks my progress in the IBM Cognative class course namely, Python for Data Science.___
+___This is a repository that shows what I've done in the IBM Cognative class course namely, Python for Data Science.___
 
 ___I have passed the IBM cognitive class with a mark of 98% to receive my certificate and badge which you can see below.___
 IBM badge                          |  IBM certificate
@@ -8,7 +8,7 @@ IBM badge                          |  IBM certificate
 ![](python-for-data-science.png)   | ![](IBMcertificate.png)
   
 
-___Below are the links to my GitHub Gist and IBM Watson Studio which shows what I've learnt in the IBM Cognative class course.___
+___Below are the links to my GitHub Gist and IBM Watson Studio accounts which shows what I've learnt in the IBM Cognative class course.___
 
 <details>
         <summary>Links </summary>
